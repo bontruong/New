@@ -1,0 +1,17 @@
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\bin\Debug\QLSV_PS03158.exe.config
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.vbprojResolveAssemblyReference.cache
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.LOGIN.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.Resources.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.vbproj.GenerateResource.Cache
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.xml
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\bin\Debug\QLSV_PS03158.exe
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\bin\Debug\QLSV_PS03158.pdb
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\bin\Debug\QLSV_PS03158.xml
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.exe
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.pdb
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.Home.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.Sinh_Viên.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.Bảng_Điểm.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.Lớp.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.Xếp_loại.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\QLSV_PS03158\obj\Debug\QLSV_PS03158.Môn_Học.resources

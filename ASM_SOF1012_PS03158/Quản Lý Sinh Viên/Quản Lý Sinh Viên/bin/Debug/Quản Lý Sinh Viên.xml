@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Quản Lý Sinh Viên
+</name>
+</assembly>
+<members>
+<member name="T:Quản_Lý_Sinh_Viên.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.Add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.Clien_list">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.Delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.Edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.fpolyHCM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.Home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.Log_out">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.Open_door">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.poly_welcome">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.SECURITY_LOGO7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.tải_xuống__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.Upload">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Quản_Lý_Sinh_Viên.My.Resources.Resources.User">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

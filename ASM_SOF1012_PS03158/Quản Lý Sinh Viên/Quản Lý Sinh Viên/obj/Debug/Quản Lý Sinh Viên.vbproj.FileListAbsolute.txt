@@ -1,0 +1,21 @@
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\bin\Debug\Quản Lý Sinh Viên.exe.config
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản Lý Sinh Viên.vbprojResolveAssemblyReference.cache
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.frmLogin.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.Resources.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản Lý Sinh Viên.vbproj.GenerateResource.Cache
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản Lý Sinh Viên.xml
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\bin\Debug\Quản Lý Sinh Viên.exe
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\bin\Debug\Quản Lý Sinh Viên.pdb
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\bin\Debug\Quản Lý Sinh Viên.xml
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản Lý Sinh Viên.exe
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản Lý Sinh Viên.pdb
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.Chỉ_Tiêu_Xếp_Loại_Học_Sinh.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.Môn_Học.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.Sinh_Viên.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.Trang_Chủ_Quản_Lý.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.Lớp.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.Điểm_tổng_kết.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.Đểm_Trung_Bình.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.lbldiem1.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.Home.resources
+C:\Users\Bon\Desktop\ASM_SOF1012_PS03158\Quản Lý Sinh Viên\Quản Lý Sinh Viên\obj\Debug\Quản_Lý_Sinh_Viên.Bảng_Điểm.resources

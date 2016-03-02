@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+QLSV_PS03158
+</name>
+</assembly>
+<members>
+<member name="T:QLSV_PS03158.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.Add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.Delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.Edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.Home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.Log_out">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.Login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.sinh_vien_poly_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.sinh_vien_poly1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.tải_xuống">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.tải_xuống__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:QLSV_PS03158.My.Resources.Resources.Upload">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
